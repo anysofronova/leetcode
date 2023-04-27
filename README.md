@@ -8,11 +8,11 @@ This repository contains my solutions to various LeetCode problems.
 
 | # | Title | Solution | Date |
 |---| ----- | -------- | ---- |
-| 1 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./Top Interview Questions/Easy/Remove Duplicates from Sorted Array.ts) | 27-04-2023 |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./Python/add-two-numbers.py) | 2022-03-03 |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./C++/longest-substring-without-repeating-characters.cpp) | 2022-03-05 |
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](./Java/Median-of-Two-Sorted-Arrays.java) | 2022-03-10 |
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Python/longest-palindromic-substring.py) | 2022-03-15 |
+| 1 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [TS](./Top_Interview_Questions/Easy/maxProfit.ts) | 27-04-2023 |
+| 2 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [TS](./Top_Interview_Questions/Easy/removeDuplicates.ts) | 27-04-2023 |
+| 3 | []() | [TS](./Top_Interview_Questions/Easy/) | 27-04-2023 |
+| 4 | []() | [TS](./Top_Interview_Questions/Easy/) | 27-04-2023 |
+| 5 | []() | [TS](./Top_Interview_Questions/Easy/) | 27-04-2023 |
 
 ## Contributing
 
