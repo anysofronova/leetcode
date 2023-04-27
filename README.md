@@ -6,13 +6,22 @@ This repository contains my solutions to various LeetCode problems.
 
 ## Table of Contents
 
-| # | Title | Solution | Date |
-|---| ----- | -------- | ---- |
-| 1 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [TS](./Top_Interview_Questions/Easy/maxProfit.ts) | 27-04-2023 |
-| 2 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [TS](./Top_Interview_Questions/Easy/removeDuplicates.ts) | 27-04-2023 |
-| 3 | []() | [TS](./Top_Interview_Questions/Easy/) | 27-04-2023 |
-| 4 | []() | [TS](./Top_Interview_Questions/Easy/) | 27-04-2023 |
-| 5 | []() | [TS](./Top_Interview_Questions/Easy/) | 27-04-2023 |
+| # | Title | Deifficulty | Solution | Date |
+|---| ----- | ----------- | -------- | ---- |
+| 1 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [TS](./Top_Interview_Questions/Easy/maxProfit.ts) | 27-04-2023 |
+| 2 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [TS](./Top_Interview_Questions/Easy/removeDuplicates.ts) | 27-04-2023 |
+| 3 | []() | Easy | [TS](./Top_Interview_Questions/Easy/) | 27-04-2023 |
+| 4 | []() | Easy | [TS](./Top_Interview_Questions/Easy/) | 27-04-2023 |
+| 5 | []() | Easy | [TS](./Top_Interview_Questions/Easy/) | 27-04-2023 |
+
+## Format of Table of Contents
+
+- The first column contains the problem number.
+- The second column contains the problem title, which links to the LeetCode problem page.
+- The third column contains the difficulty level of the problem.
+- The fourth column contains a link to the solution file in the corresponding language-specific directory.
+- The fifth column contains the date when the solution was added.
+
 
 ## Contributing
 
