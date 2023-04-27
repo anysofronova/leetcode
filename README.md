@@ -36,4 +36,4 @@ Contributions are always welcome! If you'd like to contribute to this repository
 
 ## License
 
-This repository is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+This repository is licensed under the MIT License. See [LICENSE](./LICENSE.md) for more information.
