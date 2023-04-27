@@ -1,4 +1,9 @@
 {
+  "name": "leetcode",
+  "description": "This repository contains my solutions to various leetCode problems.",
+  "private": true,
+  "version": "1.0.0",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.16.1",
     "typescript": "^5.0.4"
