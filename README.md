@@ -6,13 +6,22 @@ This repository contains my solutions to various LeetCode problems.
 
 ## Table of Contents
 
-| # | Title | Solution | Date |
-|---| ----- | -------- | ---- |
-| 1 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./Top Interview Questions/Easy/Remove Duplicates from Sorted Array.ts) | 27-04-2023 |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./Python/add-two-numbers.py) | 2022-03-03 |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./C++/longest-substring-without-repeating-characters.cpp) | 2022-03-05 |
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](./Java/Median-of-Two-Sorted-Arrays.java) | 2022-03-10 |
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Python/longest-palindromic-substring.py) | 2022-03-15 |
+| # | Title | Deifficulty | Solution | Date |
+|---| ----- | ----------- | -------- | ---- |
+| 1 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [TS](./Top_Interview_Questions/Easy/maxProfit.ts) | 27-04-2023 |
+| 2 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [TS](./Top_Interview_Questions/Easy/removeDuplicates.ts) | 27-04-2023 |
+| 3 | []() | Easy | [TS](./Top_Interview_Questions/Easy/) | 27-04-2023 |
+| 4 | []() | Easy | [TS](./Top_Interview_Questions/Easy/) | 27-04-2023 |
+| 5 | []() | Easy | [TS](./Top_Interview_Questions/Easy/) | 27-04-2023 |
+
+## Format of Table of Contents
+
+- The first column contains the problem number.
+- The second column contains the problem title, which links to the LeetCode problem page.
+- The third column contains the difficulty level of the problem.
+- The fourth column contains a link to the solution file in the corresponding language-specific directory.
+- The fifth column contains the date when the solution was added.
+
 
 ## Contributing
 
@@ -27,4 +36,4 @@ Contributions are always welcome! If you'd like to contribute to this repository
 
 ## License
 
-This repository is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+This repository is licensed under the MIT License. See [LICENSE](./LICENSE.md) for more information.
