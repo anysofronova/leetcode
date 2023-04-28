@@ -1,5 +1,5 @@
 function intersect(nums1: number[], nums2: number[]): number[] {
-  return nums1.reduce((acc, val) => {
+  return nums1.reduce((acc: number[], val: number) => {
     const ind = nums2.indexOf(val);
     if (ind !== -1) {
       acc.push(val);
