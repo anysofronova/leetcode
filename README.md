@@ -6,13 +6,14 @@ This repository contains my solutions to various LeetCode problems.
 
 ## Table of Contents
 
-| # | Title | Deifficulty | Solution                                                  | Date |
-|---| ----- | ----------- |-----------------------------------------------------------| ---- |
+| # | Title | Deifficulty | Solution                                                  | Date       |
+|---| ----- | ----------- |-----------------------------------------------------------|------------|
 | 1 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [TS](./Top_Interview_Questions/Easy/maxProfit.ts)         | 27-04-2023 |
 | 2 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [TS](./Top_Interview_Questions/Easy/removeDuplicates.ts)  | 27-04-2023 |
 | 3 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [TS](./Top_Interview_Questions/Easy/rotate.ts)            | 27-04-2023 |
 | 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [TS](./Top_Interview_Questions/Easy/containsDuplicate.ts) | 27-04-2023 |
 | 5 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [TS](./Top_Interview_Questions/Easy/singleNumber.ts)      | 27-04-2023 |
+| 6 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [TS](./Top_Interview_Questions/Easy/intersect.ts)         | 28-04-2023 |
 | 6 | []() | Easy | [TS](./Top_Interview_Questions/Easy/)                     | 27-04-2023 |
 
 ## Format of Table of Contents
