@@ -15,7 +15,8 @@ This repository contains my solutions to various LeetCode problems.
 | 5  | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [TS](./Top_Interview_Questions/Easy/singleNumber.ts)      | 27-04-2023 |
 | 6  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [TS](./Top_Interview_Questions/Easy/intersect.ts)         | 28-04-2023 |
 | 7  | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [TS](./Top_Interview_Questions/Easy/plusOne.ts)           | 28-04-2023 |
-| 8  | []() | Easy | [TS](./Top_Interview_Questions/Easy/)                     | 27-04-2023 |
+| 8  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [TS](./Top_Interview_Questions/Easy/moveZeroes.ts)        | 03-05-2023 |
+| 9  | []() | Easy | [TS](./Top_Interview_Questions/Easy/)                     | 27-04-2023 |
 
 ## Format of Table of Contents
 
