@@ -16,7 +16,8 @@ This repository contains my solutions to various LeetCode problems.
 | 6  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [TS](./Top_Interview_Questions/Easy/intersect.ts)         | 28-04-2023 |
 | 7  | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [TS](./Top_Interview_Questions/Easy/plusOne.ts)           | 28-04-2023 |
 | 8  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [TS](./Top_Interview_Questions/Easy/moveZeroes.ts)        | 03-05-2023 |
-| 9  | []() | Easy | [TS](./Top_Interview_Questions/Easy/)                     | 27-04-2023 |
+| 9  | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [TS](./Top_Interview_Questions/Easy/twoSum.ts)            | 03-05-2023 |
+| 9  | []() | Easy | [TS](./Top_Interview_Questions/Easy/)            | 27-04-2023 |
 
 ## Format of Table of Contents
 
